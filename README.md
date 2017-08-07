@@ -1,1 +1,1 @@
-# Online-Examination-System-
+This is LICT project
